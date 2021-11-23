@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KiDxS/KiDxS/main/dancing.gif">
   <br>
-  Welcome to my profile ✨
+  welcome to my profile ✨
   <br>
   i wish you all have a nice day.💕
 </p>
