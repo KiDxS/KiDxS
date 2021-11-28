@@ -1,10 +1,9 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/KiDxS/KiDxS/main/dancing.gif">
   <br>
-  welcome to my profile ✨
-  <br>
-  i wish you all have a nice day.💕
-</p>
+  <h3> welcome to my profile ✨ </h3>
+  <h3> i wish you all have a nice day.💕 </h3>
+</div>
 
 
 
