@@ -8,7 +8,7 @@
 
 
 ### whoami 🤔 
-Hi, I am Angelo. Your friendly neighborhood API developer and penetration tester. In this account you would see that my projects are mostly related to Nodejs cuz why not? I'm a douchey API developer after all.
+Hi, I am Angelo. Your friendly neighborhood API developer and penetration tester.
 
 ### skills 🌱
 <div>
@@ -16,6 +16,7 @@ Hi, I am Angelo. Your friendly neighborhood API developer and penetration tester
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/doodle/48/000000/hacking.png"/>
   <img src="https://img.icons8.com/office/40/000000/api-settings.png"/>
+  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
  </div>
 
 <!--
