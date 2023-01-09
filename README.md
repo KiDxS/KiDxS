@@ -1,24 +1,22 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KiDxS/KiDxS/main/dancing.gif">
-  <br>
-  <h3> welcome to my profile ✨ </h3>
-  <h3> i wish you all have a nice day.💕 </h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2000&pause=1000&color=04EE72&width=435&lines=Angelo+Geant+A.+Gaviola;A+Security+Engineer;A+Software+Engineer" alt="Typing SVG" /></a>
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=KiDxS&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KiDxS&theme=tokyonight" />
 </div>
 
 
-
-### whoami 🤔 
-Hi, I am Angelo. Your friendly neighborhood API developer and penetration tester.
-
-### skills 🌱
+## Engineering skills
 <div>
-  <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-  <img src="https://img.icons8.com/doodle/48/000000/hacking.png"/>
-  <img src="https://img.icons8.com/office/40/000000/api-settings.png"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
- </div>
-
+  <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+  <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</div>
 <!--
 **KiDxS/KiDxS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
