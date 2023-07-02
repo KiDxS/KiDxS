@@ -16,6 +16,8 @@
   <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img height="40px" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+          
 </div>
 <!--
 **KiDxS/KiDxS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
